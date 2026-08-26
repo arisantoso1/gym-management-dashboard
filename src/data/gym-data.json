@@ -1,0 +1,409 @@
+{
+  "members": [
+    {
+      "id": "GM-2401",
+      "name": "Nadia Pratama Saja",
+      "email": "nadia.p@fitness.id",
+      "paket": "PK-001",
+      "status": "Aktif",
+      "joined": "12 Jan 2024",
+      "expires": "12 Jan 2027",
+      "avatar": "NP",
+      "jumlahKunjungan": 18,
+      "ptKuota": 10,
+      "ptTerpakai": 8
+    },
+    {
+      "id": "GM-2398",
+      "name": "Raka Wijaya",
+      "email": "raka.w@fitness.id",
+      "paket": "PK-002",
+      "status": "Aktif",
+      "joined": "08 Jan 2024",
+      "expires": "08 Jan 2027",
+      "avatar": "RW",
+      "jumlahKunjungan": 24,
+      "ptKuota": 10,
+      "ptTerpakai": 10
+    },
+    {
+      "id": "GM-2391",
+      "name": "Salsa Mahendra",
+      "email": "salsa.m@fitness.id",
+      "paket": "PK-003",
+      "status": "Akan berakhir",
+      "joined": "21 Dec 2023",
+      "expires": "21 Sep 2026",
+      "avatar": "SM",
+      "jumlahKunjungan": 31,
+      "ptKuota": 10,
+      "ptTerpakai": 7
+    },
+    {
+      "id": "GM-2386",
+      "name": "Bima Saputra",
+      "email": "bima.s@fitness.id",
+      "paket": "PK-004",
+      "status": "Aktif",
+      "joined": "05 Dec 2023",
+      "expires": "05 Dec 2024",
+      "avatar": "BS",
+      "jumlahKunjungan": 42,
+      "ptKuota": 10,
+      "ptTerpakai": 8
+    },
+    {
+      "id": "GM-2379",
+      "name": "Citra Lestari",
+      "email": "citra.l@fitness.id",
+      "paket": "PK-001",
+      "status": "Nonaktif",
+      "joined": "16 Nov 2023",
+      "expires": "16 Aug 2024",
+      "avatar": "CL",
+      "jumlahKunjungan": 12,
+      "ptKuota": 10,
+      "ptTerpakai": 10
+    },
+    {
+      "id": "GM-2410",
+      "name": "Dewi Anggraini",
+      "email": "dewi.a@fitness.id",
+      "phone": "0812-3456-7890",
+      "paket": "PK-002",
+      "status": "Aktif",
+      "joined": "26 Agu 2026",
+      "expires": "26 Agu 2027",
+      "avatar": "DA",
+      "faceDescriptor": [
+        0.012,
+        -0.034,
+        0.056,
+        -0.078,
+        0.091,
+        -0.113,
+        0.135,
+        -0.157,
+        0.179,
+        -0.201,
+        0.223,
+        -0.245,
+        0.267,
+        -0.289,
+        0.311,
+        -0.333,
+        0.355,
+        -0.377,
+        0.399,
+        -0.421,
+        0.443,
+        -0.465,
+        0.487,
+        -0.509,
+        0.531,
+        -0.553,
+        0.575,
+        -0.597,
+        0.619,
+        -0.641,
+        0.663,
+        -0.685,
+        0.707,
+        -0.729,
+        0.751,
+        -0.773,
+        0.795,
+        -0.817,
+        0.839,
+        -0.861,
+        0.883,
+        -0.905,
+        0.927,
+        -0.949,
+        0.971,
+        -0.993,
+        0.015,
+        -0.037,
+        0.059,
+        -0.081,
+        0.103,
+        -0.125,
+        0.147,
+        -0.169,
+        0.191,
+        -0.213,
+        0.235,
+        -0.257,
+        0.279,
+        -0.301,
+        0.323,
+        -0.345,
+        0.367,
+        -0.389,
+        0.411,
+        -0.433,
+        0.455,
+        -0.477,
+        0.499,
+        -0.521,
+        0.543,
+        -0.565,
+        0.587,
+        -0.609,
+        0.631,
+        -0.653,
+        0.675,
+        -0.697,
+        0.719,
+        -0.741,
+        0.763,
+        -0.785,
+        0.807,
+        -0.829,
+        0.851,
+        -0.873,
+        0.895,
+        -0.917,
+        0.939,
+        -0.961,
+        0.983,
+        -0.005,
+        0.027,
+        -0.049,
+        0.071,
+        -0.093,
+        0.115,
+        -0.137,
+        0.159,
+        -0.181,
+        0.203,
+        -0.225,
+        0.247,
+        -0.269,
+        0.291,
+        -0.313,
+        0.335,
+        -0.357,
+        0.379,
+        -0.401,
+        0.423,
+        -0.445,
+        0.467,
+        -0.489,
+        0.511,
+        -0.533,
+        0.555,
+        -0.577,
+        0.599,
+        -0.621,
+        0.643,
+        -0.665,
+        0.687,
+        -0.709,
+        0.731,
+        -0.753,
+        0.775,
+        -0.797
+      ]
+    }
+  ],
+  "petugas": [
+    {
+      "id": "ADM-001",
+      "nama": "Administrator",
+      "username": "admin",
+      "password": "admin",
+      "status": "Aktif",
+      "superadmin": true
+    },
+    {
+      "id": "ADM-002",
+      "nama": "Sari Wijaya",
+      "username": "sari",
+      "password": "sari",
+      "status": "Aktif",
+      "superadmin": false
+    },
+    {
+      "id": "ADM-003",
+      "nama": "Budi Santoso",
+      "username": "budi",
+      "password": "budi",
+      "status": "Aktif",
+      "superadmin": false
+    }
+  ],
+  "transactions": [
+    {
+      "id": "TRX-8821",
+      "member": "GM-2401",
+      "pt": "PT-0001",
+      "date": "24 Agu 2024",
+      "paket": "PK-005",
+      "petugas": "ADM-001"
+    },
+    {
+      "id": "TRX-8820",
+      "member": "GM-2398",
+      "pt": "PT-0001",
+      "date": "24 Agu 2024",
+      "paket": "PK-002",
+      "petugas": "ADM-002"
+    },
+    {
+      "id": "TRX-8819",
+      "member": "GM-2391",
+      "pt": "PT-0001",
+      "date": "23 Agu 2024",
+      "paket": "PK-003",
+      "petugas": "ADM-001"
+    },
+    {
+      "id": "TRX-8818",
+      "member": "GM-2386",
+      "pt": "PT-0002",
+      "date": "23 Agu 2024",
+      "paket": "PK-004",
+      "petugas": "ADM-003"
+    },
+    {
+      "id": "TRX-8817",
+      "member": "GM-2379",
+      "pt": "PT-0003",
+      "date": "22 Agu 2024",
+      "paket": "PK-001",
+      "petugas": "ADM-002"
+    }
+  ],
+  "visits": [
+    {
+      "id": "VIS-1001",
+      "member": "GM-2401",
+      "date": "24 Agu 2024",
+      "pt": "PT-0001",
+      "petugas": "ADM-001"
+    },
+    {
+      "id": "VIS-1002",
+      "member": "GM-2398",
+      "date": "24 Agu 2024",
+      "pt": null,
+      "petugas": "ADM-002"
+    },
+    {
+      "id": "VIS-1003",
+      "member": "GM-2391",
+      "date": "23 Agu 2024",
+      "pt": "PT-0001",
+      "petugas": "ADM-001"
+    },
+    {
+      "id": "VIS-1004",
+      "member": "GM-2386",
+      "date": "22 Agu 2024",
+      "pt": null,
+      "petugas": "ADM-003"
+    }
+  ],
+  "personalTrainers": [
+    {
+      "id": "PT-0001",
+      "name": "Ahmad",
+      "status": "Aktif",
+      "joined": "12 Jan 2024",
+      "expires": "12 Jan 2025",
+      "avatar": "NP"
+    },
+    {
+      "id": "PT-0002",
+      "name": "Wijaya",
+      "status": "Aktif",
+      "joined": "08 Jan 2024",
+      "expires": "08 Jan 2025",
+      "avatar": "RW"
+    },
+    {
+      "id": "PT-0003",
+      "name": "Toni",
+      "status": "Akan berakhir",
+      "joined": "21 Dec 2023",
+      "expires": "21 Sep 2024",
+      "avatar": "SM"
+    },
+    {
+      "id": "PT-0004",
+      "name": "Lori",
+      "status": "Aktif",
+      "joined": "05 Dec 2023",
+      "expires": "05 Dec 2024",
+      "avatar": "BS"
+    },
+    {
+      "id": "PT-0005",
+      "name": "Bunga",
+      "status": "Nonaktif",
+      "joined": "16 Nov 2023",
+      "expires": "16 Aug 2024",
+      "avatar": "CL"
+    }
+  ],
+  "paket": [
+    {
+      "id": "PK-001",
+      "name": "Harian",
+      "price": 300000,
+      "duration": "1 hari"
+    },
+    {
+      "id": "PK-002",
+      "name": "Paket 1 Bulan",
+      "price": 350000,
+      "duration": "1 bulan"
+    },
+    {
+      "id": "PK-003",
+      "name": "Paket 3 bulan",
+      "price": 450000,
+      "duration": "3 bulan"
+    },
+    {
+      "id": "PK-004",
+      "name": "Paket 6 bulan",
+      "price": 450000,
+      "duration": "6 bulan"
+    },
+    {
+      "id": "PK-005",
+      "name": "Paket 12 bulan",
+      "price": 750000,
+      "duration": "12 bulan"
+    }
+  ],
+  "checkIns": 186,
+  "revenue": [
+    {
+      "month": "Mar",
+      "value": 58
+    },
+    {
+      "month": "Apr",
+      "value": 72
+    },
+    {
+      "month": "Mei",
+      "value": 64
+    },
+    {
+      "month": "Jun",
+      "value": 86
+    },
+    {
+      "month": "Jul",
+      "value": 78
+    },
+    {
+      "month": "Agu",
+      "value": 94
+    }
+  ]
+}
